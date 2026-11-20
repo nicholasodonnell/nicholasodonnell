@@ -11,14 +11,3 @@
   &nbsp;&nbsp;
   <a href="https://nicholasodonnell.com" target="_blank"><img src="https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=&logoColor=white&labelColor=white&color=333333" alt="Website Badge" /></a>
 </p>
-
-<table align="center">
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=nicholasodonnell&theme=transparent&show_icons=true&hide_border=true&count_private=true" alt="Stats" />
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasodonnell&theme=transparent&show_icons=true&hide_border=true&layout=compact" alt="Top languages" />
-    </td>
-  </tr>
-</table>
